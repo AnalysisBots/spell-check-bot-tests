@@ -1,5 +1,5 @@
 # AnalysisTests
-let's start with a repository with some spellign mistakes
+let's start with a repository with some spelling mistakes
 
 I cannot spell resteraunt
 I cannot spell pronounciation
